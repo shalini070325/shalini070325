@@ -19,28 +19,28 @@ Aspiring **Data Analyst** passionate about turning data into actionable insights
 ### 🛒 E-commerce Sales Analysis (SQL)  
 Analyzed customer behavior, product performance, and sales trends using SQL.  
 **Skills:** JOINs, CTEs, window functions, business insights  
-👉 https://github.com/shalini070325/ecommerce-sql-analysis
+👉 https://github.com/shalini070325/ecommerce_sql_analysis
 
 ---
 
 ### 🚗 Vehicle Orders & Sales Dashboard (Power BI)  
 Interactive Power BI dashboard analyzing product engagement, regional trends, and deal size distribution.  
 **Skills:** DAX, data modeling, time intelligence  
-👉 https://github.com/shalini070325/powerbi-vehicle-orders-analysis
+👉 https://github.com/shalini070325/powerbi_vehicle_orders_analysis
 
 ---
 
 ### 📈 India CPI Inflation Analysis (Excel)  
 Economic analysis of India’s CPI inflation using Excel dashboards and insights.  
 **Skills:** pivot tables, lookups, dashboard design, trend analysis  
-👉 https://github.com/shalini070325/india-cpi-inflation-excel-analysis
+👉 https://github.com/shalini070325/india_cpi_inflation_excel_analysis
 
 ---
 
 ### 📱 PhonePe Transactions Analysis (Python)  
 Exploratory data analysis of digital payment trends using Python.  
 **Skills:** Pandas, visualization, EDA  
-👉 https://github.com/shalini070325/phonepe-transactions-analysis
+👉 https://github.com/shalini070325/phonepe_transactions_analysis
 
 ---
 
